@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag-bachwani&label=Profile%20views&color=0e75b6&style=flat" alt="chirag-bachwani" /> </p>
 
-- 🔭 I’m currently working on **E-commerce App clone**
+- Flutter Developer at **Reway Technologies**
 
 - 🌱 I’m currently learning **BloC,Rive**
 
