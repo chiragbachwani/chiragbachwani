@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag-bachwani&label=Profile%20views&color=0e75b6&style=flat" alt="chirag-bachwani" /> </p>
 
-- 🔭 flutter Developer at [Reway Technologies](https://play.google.com/store/apps/details?id=com.rewaytech.rewayusers)
+- 🔭 flutter Developer
 
 - 🌱 I’m currently learning **BloC,NodeJs**
 
