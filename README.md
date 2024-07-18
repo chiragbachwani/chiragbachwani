@@ -1,23 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Bachwani</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Full Stack Software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag-bachwani&label=Profile%20views&color=0e75b6&style=flat" alt="chirag-bachwani" /> </p>
 
-- 🔭 flutter Developer
+- 🔭 Flutter, Node Js,Express Js , MongoDb, Firebase.
 
-- 🌱 I’m currently learning **BloC,NodeJs**
+- 🌱 I’m currently learning **AWS , Machine Learning**
 
-- 👯 I’m looking to collaborate on **Flutter Apps**
-- 🤝 I’m looking for help with **BlockChain Technology, Machine Learning**
+- 👯 I’m looking to collaborate on **High Level Machine Learning Projects**
+- 🤝 I’m looking for help with **Machine Learning, React**
 
-- 💬 Ask me about **Flutter,Dart,Getx**
+- 💬 Ask me about **Flutter,Dart,Getx, Node js, Firebase**
 
 - 📫 How to reach me **bachwani620@Gmail.com**
-
-- ⚡ Fun fact **I Play Valorant🎮 and I also am a Video Editor📹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
