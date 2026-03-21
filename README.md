@@ -28,7 +28,11 @@
 
 
 <p align="center">
-  <img src="https://github-activity-api.vercel.app/api/badge" alt="Combined GitHub Activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-api.vercel.app/api/badge?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-api.vercel.app/api/badge?theme=light">
+    <img alt="Combined GitHub Activity" src="https://github-activity-api.vercel.app/api/badge">
+  </picture>
   <br/>
   <!-- Note: If your Vercel URL is different, please update the src above! -->
 </p>
